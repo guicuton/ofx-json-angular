@@ -1,0 +1,23 @@
+{
+  "name": "ofx-json-angular",
+  "version": "0.0.1",
+  "description": "Convert JSON to OFX in Angular",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guicuton/ofx-json-angular.git"
+  },
+  "keywords": [
+    "ofx",
+    "json"
+  ],
+  "author": "Guilherme Mascarenhas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guicuton/ofx-json-angular/issues"
+  },
+  "homepage": "https://github.com/guicuton/ofx-json-angular#readme"
+}
